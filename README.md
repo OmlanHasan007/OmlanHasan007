@@ -3,7 +3,7 @@
 <p align="center">
   <strong>AI / ML Developer · Deep Learning · LLMs & Agents</strong><br>
   M.Sc. Computational Modelling & Simulation (AI Track) · TU Dresden, Germany<br>
-  Co-author · <a href="https://link-to-your-paper.com">HIS 2022 Conference Paper</a> on ECG Heart Block Detection
+  Co-author · <a href="https://www.researchgate.net/publication/371022238_An_Automatic_Detection_of_Heart_Block_from_ECG_Images_Using_YOLOv4">HIS 2022 Conference Paper</a> on ECG Heart Block Detection
 </p>
 
 <p align="center">
